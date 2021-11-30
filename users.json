@@ -1,0 +1,63 @@
+{
+    "5fff315fa1fcd": {
+        "appointment": "",
+        "username": "F\u0151 Admin",
+        "taj": "012345678",
+        "address": "Tyukod",
+        "email": "admin@nemkovid.hu",
+        "password": "$2y$10$Q3g8j6kM8GfaIMX2pT7D.esWvtITjvWI3MKNY1b6D9IESgwDor0rC",
+        "roles": [
+            "user",
+            "admin"
+        ],
+        "id": "5fff315fa1fcd"
+    },
+    "61a61af530874": {
+        "username": "alfa",
+        "taj": "123123123",
+        "address": "kakas utca",
+        "email": "alfa@gmail.com",
+        "password": "$2y$10$8pIP7xVHDohDyLpIv7bW4.SpzeqSJucgGhQG7DzGFivomtEs2t95y",
+        "roles": [
+            "user"
+        ],
+        "appointment": "61a619b213a1e",
+        "id": "61a61af530874"
+    },
+    "61a61b3f368c9": {
+        "username": "beta",
+        "taj": "234234234",
+        "address": "Beta ucta 2.",
+        "email": "beta@gmail.com",
+        "password": "$2y$10$hsgkN5cadFVuyoNI7qjZ7ePtk6aXOUR6MKJIVLi83qpfj5j8QsxHO",
+        "roles": [
+            "user"
+        ],
+        "appointment": "61a619b213a1e",
+        "id": "61a61b3f368c9"
+    },
+    "61a61b7d9b962": {
+        "username": "gamma@gamil.com",
+        "taj": "321321321",
+        "address": "Gamma u 3.",
+        "email": "gamma@gmail.com",
+        "password": "$2y$10$d1IirNkUpu1KPNwU0IQ0jeSUNxT8hId28uubbAEAEFg0BWSmWw5km",
+        "roles": [
+            "user"
+        ],
+        "appointment": "",
+        "id": "61a61b7d9b962"
+    },
+    "61a61bf2b1d8a": {
+        "username": "Para Zita",
+        "taj": "456456456",
+        "address": "Pet\u0151pu u. 67",
+        "email": "para.zita@gmail.com",
+        "password": "$2y$10$.jQKXap1FgkupJD13eoePuetQrvQ\/Stous9eokc2Pa\/JT57jl\/doy",
+        "roles": [
+            "user"
+        ],
+        "appointment": "61a6197e81d44",
+        "id": "61a61bf2b1d8a"
+    }
+}
