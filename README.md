@@ -1,4 +1,4 @@
-# phpReference
+# Appointment Booking with calendar
 For anywhom who is interested in a quick demo of my skills. Please keep in mind, that i'm only a university student, without any work experience.
 You can take a glance at my code right here, or can see the whole thing if you download the zip file and run on a localhost.(The premade zip contains additional pictures that you will need)
 
