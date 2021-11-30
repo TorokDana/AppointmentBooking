@@ -1,6 +1,6 @@
 # phpReference
 For anywhom who is interested in a quick demo of my skills. Please keep in mind, that i'm only a university student, without any work experience.
-You can take a glance at my code right here, or can see the whole thing if you download the zip file and run on a localhost.
+You can take a glance at my code right here, or can see the whole thing if you download the zip file and run on a localhost.(The premade zip contains additional pictures that you will need)
 
 This is only available in Hungarian at the moment.
 It's a php project where you can book an appointment for getting a shot of vaccine. 
