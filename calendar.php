@@ -145,15 +145,8 @@ function build_calendar($month,$year,$dateArray) {
                // $calendar .=date("Y-m-d",$d);
 
 
-
-
-
-
-
-
-
                if ($auth->authorize(["admin"]) ){
-                    if(count($appointment['users'])<$appointment['capacity']){
+                    if(count($appointment['users'])<$appointment['capacity']&& $d > strtotime(date('Y-m-d'))){
                         $calendar .='<li style="color:green">';
                     }else{
                         $calendar .='<li style="color:red">';
@@ -172,7 +165,7 @@ function build_calendar($month,$year,$dateArray) {
 
                }else{
 
-                if(count($appointment['users'])<$appointment['capacity']){
+                if(count($appointment['users'])<$appointment['capacity'] && $d > strtotime(date('Y-m-d'))){
                     $calendar .='<li style="color:green">';
 
                     if(!$auth->is_authenticated() ){
